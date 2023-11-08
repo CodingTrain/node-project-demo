@@ -1,0 +1,15 @@
+{
+  "name": "coding-train-node-demo",
+  "version": "1.0.0",
+  "description": "just for demo purposes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Coding Train",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
